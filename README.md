@@ -1,7 +1,8 @@
 # Pike-Engine
  A comminty driven (portable) pygame editor + python code editor.
  As far as thing's go, so far most of this is WIP. I am hoping to achieve a community driven game-engine / editor.
-
+ 
+ Feel free to submit pull requests!
 
 Steps to use:
  1. [Install python ](https://www.python.org/downloads/)
