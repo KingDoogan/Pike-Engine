@@ -7,5 +7,5 @@ Steps to use:
  1. [Install python ](https://www.python.org/downloads/)
  2. Install pygame ["pip install pygame"](https://www.pygame.org/wiki/GettingStarted)
  3. Install PyQt5 "pip install PyQt5"
- 4. Run in your local IDE / python runner or use [Sublime Text](https://www.sublimetext.com)https://www.sublimetext.com
+ 4. Run in your local IDE / python runner or use [Sublime Text ](https://www.sublimetext.com)https://www.sublimetext.com
  5. PROFIT!
