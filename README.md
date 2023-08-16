@@ -7,13 +7,22 @@
 
 Features so far:
 
- 1. Python code editing.
- 2. play / run game.
- 3. add or remove game objects.
- 4. move gameobjects around in the scene.
- 5. save & load (kinda broken) to .pik (json style)
- 6. engine / coder can be exported to .exe with ease. (using pytoexe)
+ * Python code editing.
+ * play / run game.
+ * add or remove game objects.
+ * move gameobjects around in the scene.
+ * save & load (kinda broken) to .pik (json style)
+ * engine / coder can be exported to .exe with ease. (using pytoexe)
 
+Future plans:
+
+ * EXE Releases.
+ * Lots of features & bug fixes!
+ * Clear Documentation.
+ * Easy use.
+ * Both the pike-editor & pike-code editor to be flexible / separable in releases.
+ * Discord community.
+ * Crowd funding.
 
 Steps to use:
  1. [Install python ](https://www.python.org/downloads/)
