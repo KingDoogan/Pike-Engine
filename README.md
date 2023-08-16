@@ -4,6 +4,17 @@
  
  Feel free to submit pull requests!
 
+
+Features so far:
+
+ 1. Python code editing.
+ 2. play / run game.
+ 3. add or remove game objects.
+ 4. move gameobjects around in the scene.
+ 5. save & load (kinda broken) to .pik (json style)
+ 6. engine / coder can be exported to .exe with ease. (using pytoexe)
+
+
 Steps to use:
  1. [Install python ](https://www.python.org/downloads/)
  2. Install pygame ["pip install pygame"](https://www.pygame.org/wiki/GettingStarted)
