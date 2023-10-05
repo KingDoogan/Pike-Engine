@@ -186,7 +186,12 @@ class CodeEditorApp(QMainWindow):
             print(f"Error importing module {module_name}: {e}")
 
     def run_code(self):
-        code = self.editor.toPlainText()
+        import_statements = re.findall(r"import \w+", self.editor.toPlainText())
+        for statement in import_statements:
+            module_name = statement.split()[1]
+            self.run_import(module_name)
+
+            code = self.editor.toPlainText()
 
         # Execute the code using the imported modules
         for module_name, module in self.imported_modules.items():
